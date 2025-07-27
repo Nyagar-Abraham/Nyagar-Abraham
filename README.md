@@ -16,8 +16,6 @@
 
 #### 📫 Let's Connect
 
-
-- Portfolio: [your-portfolio.com](https://your-portfolio.com) 
 - Email: abrahamowino129@gmail.com
 
 ---
